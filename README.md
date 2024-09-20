@@ -11,7 +11,7 @@ Este texto está en **negrita** y este también esta en __negrita__
 
 Este texto está en *cursiva* y esta también esta en _cursiva_
 
-**palabra 1 _palabra2_**
+**palabra 1	_palabra2_**
 
 1. Primer elemento de la lista
 	1. Primer subelemento
