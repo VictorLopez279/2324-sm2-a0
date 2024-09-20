@@ -28,4 +28,8 @@ Este texto está en *cursiva* y esta también esta en _cursiva_
 
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
+![Imagen de caballos](https://github.com/VictorLopez279/2324-sm2-a0/blob/main/caballos.jpg "Titulo opcional de la imagen")
+
+
+
 
